@@ -1,0 +1,43 @@
+#allElement{
+font-size: 4.4rem;
+/* height: 5.0rem; */
+text-align: center;
+align-items: center;
+}
+#selectRegion{
+    width: 50%;
+    background-color: cornflowerblue;
+    overflow:hidden ;
+    margin:  3.0rem auto;
+    border-radius: 2.0rem;
+}
+.region{
+    font-size: 2.4rem;
+    width: 40%;
+    background-color: rgb(119, 136, 167);
+    border-radius: 1rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    height: 3rem;
+}
+
+#countries{
+    background-color: cornflowerblue;
+    margin: 3.0rem auto;
+    border-radius: 2.0rem;
+    overflow: hidden;
+    width: 50%;
+}
+#selectCountry{
+background-color: rgb(119, 136, 167);
+font-size: 2.4rem;
+width: 60%;
+cursor: pointer;
+margin-bottom: 1rem;
+height: 3rem;
+border-radius: 1rem;
+}
+
+
+
+
